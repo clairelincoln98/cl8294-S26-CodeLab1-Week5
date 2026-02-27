@@ -1,5 +1,8 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# A game where you're a buttery avoiding spiders and webs!
 
-DO NOT LEAVE IT LIKE THIS!!!
+The spiders move randomly (this took a while to figure out)
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+The webs will temporarily freeze you
+
+Reach the flower to reach the next level!
+
